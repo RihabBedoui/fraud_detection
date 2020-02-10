@@ -1,3 +1,5 @@
 # fraud_detection
 La détection de fraude est une problématique courante dans de nombreux domaines, notamment les banques et le secteur financier, les assurances, dans le domaine social, judiciaire, et bien d'autres encore. Au cours des dernières années, les tentatives de fraude ont connu une forte recrudescence, ce qui rend la lutte contre ce phénomène plus importante que jamais. Malgré un renforcement des plans d'action de la part des différents organismes concernés, les actes de fraude et les abus coûtent chaque année plusieurs centaines de milliers d'euros. La difficulté pour ces organismes tient au fait qu'il s'agit d'isoler quelques cas de fraudes parmi une multitude de demandes légitime.
+
+
 Dans ce contexte, nous allons s’intéresser à un cas pratique (transactions bancaires) dans l’objectif est d’appliquer les différentes approches d’apprentissage supervisé, afin de pouvoir choisir pour chaque méthode le meilleur modèle et ensuite comparer ces modèles sur un ensemble de test qui n’a pas été utilisé dans les phases d’apprentissage et de validation des modèles en concurrence.
